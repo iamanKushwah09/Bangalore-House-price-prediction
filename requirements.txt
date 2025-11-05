@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+typing_extensions
+numpy
+scikit-learn
+streamlit
+requests
